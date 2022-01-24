@@ -1,0 +1,16 @@
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\obj\Debug\net5.0\RockPlay.csproj.AssemblyReference.cache
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\obj\Debug\net5.0\RockPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\obj\Debug\net5.0\RockPlay.AssemblyInfoInputs.cache
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\obj\Debug\net5.0\RockPlay.AssemblyInfo.cs
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\obj\Debug\net5.0\RockPlay.csproj.CoreCompileInputs.cache
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\bin\Debug\net5.0\RockPlay.exe
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\bin\Debug\net5.0\RockPlay.deps.json
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\bin\Debug\net5.0\RockPlay.runtimeconfig.json
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\bin\Debug\net5.0\RockPlay.runtimeconfig.dev.json
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\bin\Debug\net5.0\RockPlay.dll
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\bin\Debug\net5.0\ref\RockPlay.dll
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\bin\Debug\net5.0\RockPlay.pdb
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\obj\Debug\net5.0\RockPlay.dll
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\obj\Debug\net5.0\ref\RockPlay.dll
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\obj\Debug\net5.0\RockPlay.pdb
+C:\DIO\Projeto_DIO-Rock_Play\RockPlay\obj\Debug\net5.0\RockPlay.genruntimeconfig.cache
